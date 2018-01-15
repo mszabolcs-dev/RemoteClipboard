@@ -26,4 +26,4 @@ I am a Junior C# Developer at a University. With this project I want to develop 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
